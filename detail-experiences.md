@@ -203,3 +203,32 @@
     - gitlab
     - GIT
     - Trello
+
+## SEBDO Le Point
+
+- nombre de personnes à la technique : 15
+- nombre de cp : 3
+
+- environnement technique serveur :
+    - GNU/Linux (Debian - CentOS)
+    - Apache
+    - XMS / LEA
+    - PHP 5 - 7
+    - MySql
+    - SQLite
+
+- environnement technique front:
+    - html
+    - sass
+    - VannillaJS
+    - jQuery
+    - GulpJS
+    - NodeJS
+    - SVG
+    - Smarty
+    - Twig
+
+- outils annexes :
+    - gitlab
+    - GIT
+    - Jira
