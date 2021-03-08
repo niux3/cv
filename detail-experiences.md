@@ -214,8 +214,10 @@
     - Apache
     - XMS / LEA
     - PHP 5 - 7
+    - [php light](https://github.com/niux3/php-light)
     - MySql
     - SQLite
+    - Docker
 
 - environnement technique front:
     - html
