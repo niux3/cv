@@ -216,7 +216,7 @@
     - PHP 5 - 7
     - [php light](https://github.com/niux3/php-light)
     - Python3
-    - Django ([palmarès avocats](https://www.lepoint.fr/justice/palmares-avocats/) 
+    - Django ([palmarès avocats](https://www.lepoint.fr/justice/palmares-avocats/)) 
     - MySql
     - SQLite
     - Docker
