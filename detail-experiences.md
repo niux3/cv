@@ -93,6 +93,7 @@
     - Brunch
     - SVG
     - Backbone / UnderscoreJS / Jquery
+    - ReactJS
     - twig
 
 - outils annexes :
@@ -157,6 +158,7 @@
     - j2e
     - Docker
     - VMWare
+    - Django
 
 - environnement technique front:
     - html
