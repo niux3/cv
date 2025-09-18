@@ -1,6 +1,6 @@
 # compétences par expérience
 
-## Eluv (ib cegos) : aucune méthodologie
+## Eluv (ib cegos) : aucune méthodologie (seulement de la pédagogie)
 
 - Javascript & Svelte
 - Python
