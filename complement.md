@@ -163,6 +163,7 @@
 - Sass
 - HTML sémantique / CSS
 - JavaScript
+- JQuery / JQuery UI / etc.
 - PHP
 - MySQL
 - SVG
