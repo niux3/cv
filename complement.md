@@ -7,6 +7,8 @@
 
 ## Believe : SCRUM
 
+### environnement AWS :
+
 - Javascript / Typescript
 - NodeJS / ExpressJs
 - Svelte / Sveltekit
@@ -19,6 +21,8 @@
 
 ## John Paul : SCRUM
 
+### environnement AWS :
+
 - Python
 - Git
 - Django & Django Rest Framework
@@ -30,6 +34,8 @@
 
 ## Radio France : SAFE
 
+### environnement AWS :
+
 - NodeJS
 - Git
 - Javascript / Typescript
@@ -40,6 +46,8 @@
 - HTML / CSS
 
 ## LePoint : SCRUM
+
+### environnement LAMP/AWS :
 
 - Linux
 - Git
@@ -56,6 +64,8 @@
 - React / VueJS / Svelte (big POC)
 
 ## Carenity : Cycle V
+
+### environnement AWS :
 
 - Debian
 - Node.js
@@ -74,6 +84,8 @@
 - Linux
 
 ## Creativ : SCRUM / KANBAN
+
+### environnement AWS :
 
 - Debian
 - Node.js
@@ -97,6 +109,8 @@
 - PWA
 
 ## Publicis : XP / SAFE / SCRUM / KANBAN
+
+### environnement LAMP/AWS :
 
 - Debian
 - Node.js
@@ -122,6 +136,8 @@
 
 ## Fullsix - SCRUM / KANBAN
 
+### environnement LAMP :
+
 - Node.js
 - Git
 - Apache
@@ -141,6 +157,8 @@
 
 ## Bazarchic / MyTravelChic (idiliz.com): Cycle V
 
+### environnement LAMP :
+
 - Node.js
 - Git
 - GruntJS
@@ -152,6 +170,8 @@
 - SVG
 
 ## Business Lab : Cycle V / SCRUM
+
+### environnement LAMP/.Net/Java :
 
 - Node.js
 - Git
